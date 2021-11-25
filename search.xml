@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>test picture</title>
+      <link href="/2021/11/25/test-picture/"/>
+      <url>/2021/11/25/test-picture/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>pictureTest</title>
       <link href="/2021/11/25/picture/"/>
       <url>/2021/11/25/picture/</url>
       
-        <content type="html"><![CDATA[<p><img src="/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png" alt="头像"><br><img src="/2021/11/25/picture/preview.jpg" alt="pre"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png" alt="头像"></p><p><img src="/2021/11/25/picture/preview.jpg" alt="pre"></p>]]></content>
       
       
       
