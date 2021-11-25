@@ -23,12 +23,12 @@
     <published>2021-11-25T08:42:14.000Z</published>
     <updated>2021-11-25T09:06:01.562Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="pictureTest/%E5%A4%B4%E5%83%8F.png" alt="头像"><br><img src="pictureTest/preview.jpg" alt="pre"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png" alt="头像"><br><img src="/2021/11/25/picture/preview.jpg" alt="pre"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;pictureTest/%E5%A4%B4%E5%83%8F.png&quot; alt=&quot;头像&quot;&gt;&lt;br&gt;&lt;img src=&quot;pictureTest/preview.jpg&quot; alt=&quot;pre&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png&quot; alt=&quot;头像&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2021/11/25/picture/preview.jpg&quot; alt=&quot;pre&quot;&gt;&lt;/p&gt;
 </summary>
       
     
