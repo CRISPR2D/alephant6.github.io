@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8aab9f9f-d401-4272-b24a-5207edffe711" name="tecent_centos7" url="">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="101.34.187.144" port="22" sshConfigId="8d082061-e814-48ee-9653-cabf5f358628" sshConfig="root@101.34.187.144:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
