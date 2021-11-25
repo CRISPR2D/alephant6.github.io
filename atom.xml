@@ -6,7 +6,7 @@
   <link href="http://alephant6.github.io/atom.xml" rel="self"/>
   
   <link href="http://alephant6.github.io/"/>
-  <updated>2021-11-25T08:40:07.361Z</updated>
+  <updated>2021-11-25T09:00:58.361Z</updated>
   <id>http://alephant6.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pictureTest</title>
+    <link href="http://alephant6.github.io/2021/11/25/picture/"/>
+    <id>http://alephant6.github.io/2021/11/25/picture/</id>
+    <published>2021-11-25T08:42:14.000Z</published>
+    <updated>2021-11-25T09:00:58.361Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="pictureTest/%E5%A4%B4%E5%83%8F.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;pictureTest/%E5%A4%B4%E5%83%8F.png&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test tag</title>
