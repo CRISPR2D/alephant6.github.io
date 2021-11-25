@@ -6,7 +6,7 @@
   <link href="http://alephant6.github.io/atom.xml" rel="self"/>
   
   <link href="http://alephant6.github.io/"/>
-  <updated>2021-11-25T04:02:59.317Z</updated>
+  <updated>2021-11-25T08:40:07.361Z</updated>
   <id>http://alephant6.github.io/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="http://alephant6.github.io/2021/11/25/tag1/"/>
     <id>http://alephant6.github.io/2021/11/25/tag1/</id>
     <published>2021-11-25T03:57:23.000Z</published>
-    <updated>2021-11-25T04:02:59.317Z</updated>
+    <updated>2021-11-25T08:40:07.361Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="tag"><a href="#tag" class="headerlink" title="tag"></a>tag</h1><p>I created two tags: “Testeing” and “Another Tag”. 随便敲两个中文</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;tag&quot;&gt;&lt;a href=&quot;#tag&quot; class=&quot;headerlink&quot; title=&quot;tag&quot;&gt;&lt;/a&gt;tag&lt;/h1&gt;&lt;p&gt;I created two tags: “Testeing” and “Another Tag”. 随便敲两个中文&lt;/p&gt;
+</summary>
+      
     
     
     
