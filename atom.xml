@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Not-elephant</title>
   
-  
+  <subtitle>Personal blog</subtitle>
   <link href="http://alephant6.github.io/atom.xml" rel="self"/>
   
   <link href="http://alephant6.github.io/"/>
-  <updated>2021-11-25T03:58:48.716Z</updated>
+  <updated>2021-11-25T04:02:59.317Z</updated>
   <id>http://alephant6.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://alephant6.github.io/2021/11/25/tag1/"/>
     <id>http://alephant6.github.io/2021/11/25/tag1/</id>
     <published>2021-11-25T03:57:23.000Z</published>
-    <updated>2021-11-25T03:58:48.716Z</updated>
+    <updated>2021-11-25T04:02:59.317Z</updated>
     
     
     
