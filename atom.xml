@@ -6,7 +6,7 @@
   <link href="http://alephant6.github.io/atom.xml" rel="self"/>
   
   <link href="http://alephant6.github.io/"/>
-  <updated>2021-11-25T10:11:22.379Z</updated>
+  <updated>2021-11-25T10:18:16.717Z</updated>
   <id>http://alephant6.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://alephant6.github.io/2021/11/25/test-picture/"/>
     <id>http://alephant6.github.io/2021/11/25/test-picture/</id>
     <published>2021-11-25T09:45:59.000Z</published>
-    <updated>2021-11-25T10:11:22.379Z</updated>
+    <updated>2021-11-25T10:18:16.717Z</updated>
     
     <content type="html"><![CDATA[<h1 id="test-picture"><a href="#test-picture" class="headerlink" title="test picture"></a>test picture</h1><p><img src="/2021/11/25/test-picture/preview.jpg" alt="pre"></p><p><img src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1" alt="CSDN图标" title="CSDN图标"></p><p><img src="https://i.loli.net/2021/11/25/M63lOJgvwQE5oir.jpg" alt="头像"></p>]]></content>
     
@@ -29,28 +29,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;test-picture&quot;&gt;&lt;a href=&quot;#test-picture&quot; class=&quot;headerlink&quot; title=&quot;test picture&quot;&gt;&lt;/a&gt;test picture&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2021/11/25/test-pic</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>pictureTest</title>
-    <link href="http://alephant6.github.io/2021/11/25/picture/"/>
-    <id>http://alephant6.github.io/2021/11/25/picture/</id>
-    <published>2021-11-25T08:42:14.000Z</published>
-    <updated>2021-11-25T10:05:39.521Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png" alt="头像"></p><p><img src="/2021/11/25/picture/preview.jpg" alt="pre"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/11/25/picture/%E5%A4%B4%E5%83%8F.png&quot; alt=&quot;头像&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2021/11/25/picture/preview.jpg&quot; alt=&quot;pre&quot;&gt;&lt;/p&gt;
-</summary>
       
     
     
