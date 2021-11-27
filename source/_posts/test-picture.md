@@ -2,6 +2,7 @@
 title: test picture
 date: 2021-11-25 17:45:59
 tags: Testing
+categories: Test
 ---
 # test picture
 The picture under the server folder.

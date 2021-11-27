@@ -4,12 +4,47 @@
   
     
     <entry>
+      <title>create BigData repository</title>
+      <link href="/2021/11/27/create-BigData-repository/"/>
+      <url>/2021/11/27/create-BigData-repository/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h1><h2 id="En"><a href="#En" class="headerlink" title="En"></a>En</h2><p>Big Data Course, Information and Computational Science (Embedded), 2019, NUIST</p><p>This course is taught by Mr. Zhang of Neusoft. It is created by Alephant for classmates or anyone who interests in big data technology to exchange learning. The repository was created in github.You can quickly access by clicking on the connection below:</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote><p><img src="https://i.loli.net/2021/11/27/vVKugqX5CpPhkdH.png" alt="Big Data"></p><h2 id="简体中文"><a href="#简体中文" class="headerlink" title="简体中文"></a>简体中文</h2><p>大数据课程，信息与计算科学（嵌入式），2019级，南京信息工程大学</p><p>本课程由东软的张老师讲授。它是由Alephant为同学或任何对大数据技术感兴趣的人创建的，用于交流学习。存储库是在 github 中创建的，你可以点击以下连接快速访问：</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Expertise </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Big Data </tag>
+            
+            <tag> Create </tag>
+            
+            <tag> Resource guide </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test picture</title>
       <link href="/2021/11/25/test-picture/"/>
       <url>/2021/11/25/test-picture/</url>
       
         <content type="html"><![CDATA[<h1 id="test-picture"><a href="#test-picture" class="headerlink" title="test picture"></a>test picture</h1><p>The picture under the server folder.<br><img src="/.io//preview.jpg" alt="pre"></p><p>Chinese pictures of the Internet csdn.<br><img src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1" alt="CSDN图标" title="CSDN图标"></p><p>Picture bed–<a href="https://sm.ms/">https://sm.ms/</a><br><img src="https://i.loli.net/2021/11/25/M63lOJgvwQE5oir.jpg" alt="头像"></p>]]></content>
       
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
       
       
         <tags>
@@ -29,6 +64,12 @@
       
         <content type="html"><![CDATA[<h1 id="tag"><a href="#tag" class="headerlink" title="tag"></a>tag</h1><p>I created two tags: “Testeing” and “Another Tag”. 随便敲两个中文</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
       
       
         <tags>
@@ -51,24 +92,11 @@
         <content type="html"><![CDATA[<h1 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog!"></a>This is my first blog!</h1><p>Hello everybody!</p>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> Testing </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/11/24/hello-world/"/>
-      <url>/2021/11/24/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
       
       
         <tags>
