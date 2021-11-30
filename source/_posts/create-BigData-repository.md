@@ -23,3 +23,6 @@ This course is taught by Mr. Zhang of Neusoft. It is created by Alephant for cla
 
 本课程由东软的张老师讲授。它是由Alephant为同学或任何对大数据技术感兴趣的人创建的，用于交流学习。存储库是在 github 中创建的，你可以点击以下连接快速访问：
 >https://github.com/Alephant6/BigData
+
+或者你可以访问国内码云镜像（可能会有延迟）：
+> https://gitee.com/qiang-shengzhou/BigData

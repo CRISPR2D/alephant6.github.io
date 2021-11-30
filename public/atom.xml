@@ -6,7 +6,7 @@
   <link href="http://alephant6.github.io/atom.xml" rel="self"/>
   
   <link href="http://alephant6.github.io/"/>
-  <updated>2021-11-27T11:26:24.160Z</updated>
+  <updated>2021-11-30T09:24:21.795Z</updated>
   <id>http://alephant6.github.io/</id>
   
   <author>
@@ -17,13 +17,64 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>gitee镜像地址</title>
+    <link href="http://alephant6.github.io/2021/11/30/gitee%E9%95%9C%E5%83%8F%E5%9C%B0%E5%9D%80/"/>
+    <id>http://alephant6.github.io/2021/11/30/gitee%E9%95%9C%E5%83%8F%E5%9C%B0%E5%9D%80/</id>
+    <published>2021-11-30T09:19:31.000Z</published>
+    <updated>2021-11-30T09:24:21.795Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="建立国内镜像"><a href="#建立国内镜像" class="headerlink" title="建立国内镜像"></a>建立国内镜像</h1><p>github国内访问受限，故建立码云gitee镜像，链接同步更新在About主页中。</p><blockquote><p><a href="https://gitee.com/qiang-shengzhou">https://gitee.com/qiang-shengzhou</a></p></blockquote><p><img src="https://i.loli.net/2021/11/30/vosDx4T93HMBajf.png" alt="image.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;建立国内镜像&quot;&gt;&lt;a href=&quot;#建立国内镜像&quot; class=&quot;headerlink&quot; title=&quot;建立国内镜像&quot;&gt;&lt;/a&gt;建立国内镜像&lt;/h1&gt;&lt;p&gt;github国内访问受限，故建立码云gitee镜像，链接同步更新在About主页中。&lt;/p&gt;
+&lt;blockq</summary>
+      
+    
+    
+    
+    
+    <category term="Source" scheme="http://alephant6.github.io/tags/Source/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>create SQL repository</title>
+    <link href="http://alephant6.github.io/2021/11/30/create-SQL-repository/"/>
+    <id>http://alephant6.github.io/2021/11/30/create-SQL-repository/</id>
+    <published>2021-11-30T09:09:40.000Z</published>
+    <updated>2021-11-30T09:23:07.279Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="SQL"><a href="#SQL" class="headerlink" title="SQL"></a>SQL</h1><h2 id="En"><a href="#En" class="headerlink" title="En"></a>En</h2><p> Course, Information and Computational Science (Embedded), 2019, NUIST</p><p>This course is taught by Dr. PM’s SQL on-board practice class.<br>It is created by Alephant for classmates to exchange learning. The repository was created in github.You can quickly access by clicking on the connection below:</p><blockquote><p><a href="https://github.com/Alephant6/SQL">https://github.com/Alephant6/SQL</a></p></blockquote><p><img src="https://i.loli.net/2021/11/30/w421n6c9oDLMIx7.png" alt="image.png"></p><h2 id="简体中文"><a href="#简体中文" class="headerlink" title="简体中文"></a>简体中文</h2><p>大数据课程，信息与计算科学（嵌入式），2019级，南京信息工程大学</p><p>本课程由东软的张老师讲授。它是由Alephant为同学创建的，用于交流学习。存储库是在 github 中创建的，你可以点击以下连接快速访问：</p><blockquote><p><a href="https://github.com/Alephant6/SQL">https://github.com/Alephant6/SQL</a></p></blockquote><p>或者你可以访问国内码云镜像（可能会有延迟）：</p><blockquote><p><a href="https://gitee.com/qiang-shengzhou/SQL">https://gitee.com/qiang-shengzhou/SQL</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;SQL&quot;&gt;&lt;a href=&quot;#SQL&quot; class=&quot;headerlink&quot; title=&quot;SQL&quot;&gt;&lt;/a&gt;SQL&lt;/h1&gt;&lt;h2 id=&quot;En&quot;&gt;&lt;a href=&quot;#En&quot; class=&quot;headerlink&quot; title=&quot;En&quot;&gt;&lt;/a&gt;En&lt;/h2&gt;&lt;p</summary>
+      
+    
+    
+    
+    <category term="Expertise" scheme="http://alephant6.github.io/categories/Expertise/"/>
+    
+    
+    <category term="Create" scheme="http://alephant6.github.io/tags/Create/"/>
+    
+    <category term="Resource guide" scheme="http://alephant6.github.io/tags/Resource-guide/"/>
+    
+    <category term="SQL" scheme="http://alephant6.github.io/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
     <title>create BigData repository</title>
     <link href="http://alephant6.github.io/2021/11/27/create-BigData-repository/"/>
     <id>http://alephant6.github.io/2021/11/27/create-BigData-repository/</id>
     <published>2021-11-27T10:00:37.000Z</published>
-    <updated>2021-11-27T11:26:24.160Z</updated>
+    <updated>2021-11-30T09:15:54.252Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h1><h2 id="En"><a href="#En" class="headerlink" title="En"></a>En</h2><p>Big Data Course, Information and Computational Science (Embedded), 2019, NUIST</p><p>This course is taught by Mr. Zhang of Neusoft. It is created by Alephant for classmates or anyone who interests in big data technology to exchange learning. The repository was created in github.You can quickly access by clicking on the connection below:</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote><p><img src="https://i.loli.net/2021/11/27/vVKugqX5CpPhkdH.png" alt="Big Data"></p><h2 id="简体中文"><a href="#简体中文" class="headerlink" title="简体中文"></a>简体中文</h2><p>大数据课程，信息与计算科学（嵌入式），2019级，南京信息工程大学</p><p>本课程由东软的张老师讲授。它是由Alephant为同学或任何对大数据技术感兴趣的人创建的，用于交流学习。存储库是在 github 中创建的，你可以点击以下连接快速访问：</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h1><h2 id="En"><a href="#En" class="headerlink" title="En"></a>En</h2><p>Big Data Course, Information and Computational Science (Embedded), 2019, NUIST</p><p>This course is taught by Mr. Zhang of Neusoft. It is created by Alephant for classmates or anyone who interests in big data technology to exchange learning. The repository was created in github.You can quickly access by clicking on the connection below:</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote><p><img src="https://i.loli.net/2021/11/27/vVKugqX5CpPhkdH.png" alt="Big Data"></p><h2 id="简体中文"><a href="#简体中文" class="headerlink" title="简体中文"></a>简体中文</h2><p>大数据课程，信息与计算科学（嵌入式），2019级，南京信息工程大学</p><p>本课程由东软的张老师讲授。它是由Alephant为同学或任何对大数据技术感兴趣的人创建的，用于交流学习。存储库是在 github 中创建的，你可以点击以下连接快速访问：</p><blockquote><p><a href="https://github.com/Alephant6/BigData">https://github.com/Alephant6/BigData</a></p></blockquote><p>或者你可以访问国内码云镜像（可能会有延迟）：</p><blockquote><p><a href="https://gitee.com/qiang-shengzhou/BigData">https://gitee.com/qiang-shengzhou/BigData</a></p></blockquote>]]></content>
     
     
       

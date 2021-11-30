@@ -11,3 +11,7 @@ Major: Information and Computational Science(Embedded)
 
 ## Source
 Github home page: https://github.com/Alephant6
+
+国内镜像访问：
+
+码云主页: https://gitee.com/qiang-shengzhou
